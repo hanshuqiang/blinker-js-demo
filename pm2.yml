@@ -1,0 +1,3 @@
+apps:
+  - script: ts-node ./src/main.ts
+    watch: true
