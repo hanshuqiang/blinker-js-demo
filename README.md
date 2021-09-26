@@ -3,9 +3,9 @@
 ### 如何开发
 
 ```
-git clone xxx
+git clone https://github.com/hanpanapn/blinker-js-demo.git
 
-cd xxx
+cd blinker-js-demo
 
 npm install
 
